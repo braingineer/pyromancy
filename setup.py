@@ -7,7 +7,7 @@ setup(
   author = 'Brian McMahan',
   author_email = 'brian@joostware.com',
   url = 'https://github.com/braingineer/pyromancy', # use the URL to the github repo
-  download_url = 'https://github.com/peterldowns/mypackage/archive/0.1.tar.gz', # I'll explain this in a second
-  keywords = ['testing', 'logging', 'example'], # arbitrary keywords
+  download_url = 'https://github.com/braingineer/pyromancy/archive/0.1.tar.gz',
+  keywords = ['deep learning', 'pytorch'], # arbitrary keywords
   classifiers = [],
 )
