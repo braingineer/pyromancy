@@ -1,0 +1,16 @@
+gputil==1.2.3
+numpy==1.12.1
+scipy==0.19.0
+tqdm==4.11.2
+pandas==0.19.2
+psutil==5.4.0
+docopt==0.6.2
+numba==0.33.0
+redis==2.10.5
+setuptools==35.0.2
+six==1.10.0
+scikit_learn==0.18.1
+ujson==1.35
+PyYAML==3.12
+rq==0.9.0
+tensorboardX
