@@ -11,6 +11,6 @@ setuptools==35.0.2
 six==1.10.0
 scikit_learn==0.18.1
 ujson==1.35
-PyYAML==3.12
+PyYAML==5.1
 rq==0.9.0
 tensorboardX
